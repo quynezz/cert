@@ -1,1 +1,1 @@
-# sec certification
+# security-related certification
